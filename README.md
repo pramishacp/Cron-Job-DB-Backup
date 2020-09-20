@@ -33,10 +33,8 @@ npm run test
 * Website: www.pramishacp.com
 * Github: [@pramishacp](https://github.com/pramishacp)
 * LinkedIn: [@pramishacp](https://linkedin.com/in/pramishacp)
+* Stack Overflow: [@pramisha-c-p](https://stackoverflow.com/users/13022491/pramisha-c-p)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
